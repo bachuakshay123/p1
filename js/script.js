@@ -1,1 +1,1 @@
-dfsb
+console.log("GitHub Folder Practice Project Loaded");
